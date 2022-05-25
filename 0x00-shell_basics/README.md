@@ -15,3 +15,4 @@ o-current_working_directory prints current working directory pathname
 14-copy_html copying html files to the parent dir
 100-lets_move moving files
 101-cleam_emacs
+102-tree creating directories
