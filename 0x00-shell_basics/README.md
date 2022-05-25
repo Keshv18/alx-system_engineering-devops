@@ -17,3 +17,4 @@ o-current_working_directory prints current working directory pathname
 101-cleam_emacs
 102-tree creating directories
 103-commas map
+school,mgc
