@@ -14,3 +14,4 @@ o-current_working_directory prints current working directory pathname
 13-symbolic_link soft link using Ln
 14-copy_html copying html files to the parent dir
 100-lets_move moving files
+101-cleam_emacs
