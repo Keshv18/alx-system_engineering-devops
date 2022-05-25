@@ -9,3 +9,4 @@ o-current_working_directory prints current working directory pathname
 8-firstdelete delete file
 9-firstdirdeletion delete directory
 10-back previous directory
+11-lists list all files
