@@ -10,3 +10,4 @@ o-current_working_directory prints current working directory pathname
 9-firstdirdeletion delete directory
 10-back previous directory
 11-lists list all files
+12-file_type type of file
