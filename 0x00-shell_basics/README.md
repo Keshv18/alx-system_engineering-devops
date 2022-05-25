@@ -4,4 +4,5 @@ o-current_working_directory prints current working directory pathname
 3-listfiles current directory in long format
 4-listmorefiles current directory with "."
 5-listfilesdigitonly contents in current directory in user and digits
-0-firstdirectory created a directory in tmp
+6-firstdirectory created a directory in tmp
+7-movethatfile moving a file from one directory to another subdirectory
