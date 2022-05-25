@@ -12,3 +12,4 @@ o-current_working_directory prints current working directory pathname
 11-lists list all files
 12-file_type type of file
 13-symbolic_link soft link using Ln
+14-copy_html copying html files to the parent dir
