@@ -9,3 +9,4 @@
 9-John_Doe change commands
 10-mirror_permissions same commands as other file
 11-directories_permissions changes permissions in subdirectory
+12-directory_permisssions creating a directory with permissions
