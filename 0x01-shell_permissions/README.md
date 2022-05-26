@@ -2,3 +2,4 @@
 2-groups displays groups of current user
 3-new_owner changes user of file
 4-empty creates empty file
+5-execute owner can execute file
