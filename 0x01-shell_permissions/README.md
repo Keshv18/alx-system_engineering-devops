@@ -5,4 +5,6 @@
 5-execute owner can execute file
 6-multiple_permissions add execute and read for other
 7-everybody adds execution to everyone
-8-James_Bond
+8-James_Bond only other user permissions
+9-John_Doe change commands
+10-mirror_permissions same commands as other file
