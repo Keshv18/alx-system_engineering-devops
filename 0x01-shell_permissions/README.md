@@ -4,4 +4,4 @@
 4-empty creates empty file
 5-execute owner can execute file
 6-multiple_permissions add execute and read for other
-7-everyone adds execution to everyone
+7-everybody adds execution to everyone
