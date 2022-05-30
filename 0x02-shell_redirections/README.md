@@ -19,4 +19,6 @@
 18-letteronly displays letters only
 19-az replacing letters
 20-hiago removing letters
-21-reverse -reversing the word 
+21-reverse -reversing the word
+22- Users and Homes directory 
+23- empty casks -all empty drectories 
