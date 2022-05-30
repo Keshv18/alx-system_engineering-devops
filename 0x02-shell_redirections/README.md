@@ -3,4 +3,5 @@
 2-hellofile viewing contents of the file
 3-twofiles viewing contents of muliple files
 4-lastlines viewing last 10 lines
-5-firstlines first 10 line sin a file 
+5-firstlines first 10 line sin a file
+6-third_line viewing the third line 
