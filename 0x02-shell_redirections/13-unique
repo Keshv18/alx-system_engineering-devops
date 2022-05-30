@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq < file> sorted.file
+sort < list > sorted.list | uniq
