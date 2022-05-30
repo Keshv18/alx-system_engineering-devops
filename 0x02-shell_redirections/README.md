@@ -10,4 +10,5 @@
 9-duplicate_last_line duplicating using trail 
 10-no_more_js deleteing js files
 11-directoriescounting all directroies
-12-newest_files latest 10 files 
+12-newest_files latest 10 files
+13-unique unique words and charcters 
