@@ -18,4 +18,5 @@
 17-hidethisword displaying lines that doesnt contain bin
 18-letteronly displays letters only
 19-az replacing letters
-20-hiago removing letters 
+20-hiago removing letters
+21-reverse -reversing the word 
