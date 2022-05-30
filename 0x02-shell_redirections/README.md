@@ -12,4 +12,5 @@
 11-directoriescounting all directroies
 12-newest_files latest 10 files
 13-unique unique words and charcters
-14-findthatword finding root 
+14-findthatword finding root
+15-countthatword counting a word that has bin 
