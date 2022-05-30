@@ -16,4 +16,5 @@
 15-countthatword counting a word that has bin
 16-whatsnext findinga match and 3 letters after
 17-hidethisword displaying lines that doesnt contain bin
-18-letteronly displays letters only 
+18-letteronly displays letters only
+19-az replacing letters 
