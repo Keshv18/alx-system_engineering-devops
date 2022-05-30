@@ -15,4 +15,5 @@
 14-findthatword finding root
 15-countthatword counting a word that has bin
 16-whatsnext findinga match and 3 letters after
-17-hidethisword displaying lines that doesnt contain bin 
+17-hidethisword displaying lines that doesnt contain bin
+18-letteronly displays letters only 
