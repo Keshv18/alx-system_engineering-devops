@@ -8,4 +8,5 @@
 7-file creating a complicated name
 8-cwd_state redirecting the result
 9-duplicate_last_line duplicating using trail 
-10-no_more_js deleteing js files 
+10-no_more_js deleteing js files
+11-directoriescounting all directroies 
