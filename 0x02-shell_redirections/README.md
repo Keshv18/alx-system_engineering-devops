@@ -14,4 +14,5 @@
 13-unique unique words and charcters
 14-findthatword finding root
 15-countthatword counting a word that has bin
-16-whatsnext findinga match and 3 letters after 
+16-whatsnext findinga match and 3 letters after
+17-hidethisword displaying lines that doesnt contain bin 
