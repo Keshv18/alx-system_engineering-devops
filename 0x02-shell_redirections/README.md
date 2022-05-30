@@ -6,4 +6,5 @@
 5-firstlines first 10 line sin a file
 6-third_line viewing the third line
 7-file creating a complicated name
-8-cwd_state redirecting the result  
+8-cwd_state redirecting the result
+9-duplicate_last_line duplicating using trail  
