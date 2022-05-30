@@ -22,4 +22,5 @@
 21-reverse -reversing the word
 22- Users and Homes directory 
 23- empty casks -all empty drectories
-24 -101 gifs 
+24 -101 gifs
+25 - 102 acrostic decoding messagings using cut and paste 
