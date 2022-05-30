@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -c | grep -e '^\s.*1\s' < list > 13-unique 
+sort | uniq -u | grep -e '^\s.*1\s' < list > 13-unique 
