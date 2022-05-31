@@ -6,3 +6,5 @@
 5-local files set built command to display functions and environement
 6- create a varibale using the varname="name"
 7 creating a global varibale using export
+8 - adding a value to letter by creating an expression
+9- creates an expression with the letters
