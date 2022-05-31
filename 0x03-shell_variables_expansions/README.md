@@ -4,3 +4,4 @@
 3-paths counting directories in paths
 4-global variables printent
 5-local files set built command to display functions and environement
+6- create a varibale using the varname="name"
