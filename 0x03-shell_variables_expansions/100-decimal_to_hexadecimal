@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$((10#$DEMICAL))"
+printf "%x/n" $DEMCIAL
