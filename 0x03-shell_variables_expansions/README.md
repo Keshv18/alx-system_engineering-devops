@@ -8,3 +8,5 @@
 7 creating a global varibale using export
 8 - adding a value to letter by creating an expression
 9- creates an expression with the letters
+10 use the expression ** to get the echo 
+11 this binary which will prodcue a decimal value 
