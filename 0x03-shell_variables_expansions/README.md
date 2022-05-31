@@ -10,4 +10,5 @@
 9- creates an expression with the letters
 10 use the expression ** to get the echo 
 11 this binary which will prodcue a decimal value
-12 combinations - this needs to use echo ,tr and grep functions 
+12 combinations - this needs to use echo ,tr and grep functions
+13 printf '%.2f' this is command used for 2 deciamls  
