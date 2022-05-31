@@ -5,3 +5,4 @@
 4-global variables printent
 5-local files set built command to display functions and environement
 6- create a varibale using the varname="name"
+7 creating a global varibale using export
